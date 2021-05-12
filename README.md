@@ -6,11 +6,11 @@ Learn React.js by doing projects and reading my docs
 <b>Introduction & Philosophy</b>
 ---------------------------------
 
-Before Starting you should be familiar with:
-1.Html
-2.Css
-3.Javascript
-4.es6 std.
+Before Starting you should be familiar with:<br>
+1.HTML<br>
+2.CSS<br>
+3.Javascript<br>
+4.es6 std.<br>
 So,React is a javascript Library for building UIs.Mainly it used foe developing Single Page applications.
 React allow us to create components,each components can be reused,these components are the core building blocks of React.
 So the advantages of using react for front end development is that the loading speed will be faster compared to other traditional way of front end development since it uses virtual DOM instead of ordinary DOM.React is a fast growing open osurce library developed by Facebook.

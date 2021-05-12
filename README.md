@@ -17,6 +17,6 @@ So the advantages of using react for front end development is that the loading s
 
 so for starting React node and npm should be installed and also some kind of Editor preferable Visual Studio Code.
 so inorder to initialize react project
-enter 
-<b>npx create-react-app {your_Project_name}</b>
+enter <br>
+<b>npx create-react-app {your_Project_name}</b><br>
 it takes a while to load.

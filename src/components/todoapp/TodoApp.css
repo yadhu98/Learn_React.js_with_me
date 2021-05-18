@@ -1,0 +1,65 @@
+.Todo-container{
+    border-radius: 15px;
+    position : absolute;
+    left : 450px;
+    top : 100px;
+    width : 500px;
+    height : 500px;
+    background-color: #2d142c;
+    /* transform : translate(-50%, -50%); */
+}
+.Todo-title{
+    color : #c72c41;
+    font-family: 'Montserrat', sans-serif;
+}
+.Task-text{
+    background-color: #ee4540;
+    border-color: #000;
+    border-radius : 50px;
+    height : 35px;
+    width : 300px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.Todo-List{
+    text-align: left;
+    padding: 5px;
+    list-style-type : none;
+    position : absolute;
+     width : 400px;
+    /* height : 50px; */
+    left: 70px;
+    top : 145px;
+    border-radius : 15px;
+    border-color: black;
+}
+.Todo-List li{
+    background : #ee4540;
+    margin-bottom: 15px;
+    padding: 15px;
+    font-family: 'Monserrat',sans-serif;
+    font-weight : bold;
+    font-size:  15px;
+    display: flex;
+    border-radius: 5px;
+    
+    /* height : 30px; */
+    position: relative;
+    top : 5px;
+    left : -20px
+} 
+
+
+
+.Button-add{
+    background-color:#ee4540;
+    border-color : black;
+    color : black;
+    width : 100px;
+    height : 45px;
+    margin-left : 10px;
+    border-radius : 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}

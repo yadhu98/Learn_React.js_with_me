@@ -1,0 +1,33 @@
+.BookList-container{
+    border-radius: 15px;
+    padding : 10px ;
+    margin-top : 20px ;
+    margin-left: 425px;
+    width : 500px;
+    border: 1px solid black ;
+}
+.Input-book{
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 12px;
+    width: 300px;
+    height: 35px;
+    border : none;
+}
+.BookList-container Button{
+    width : 100px;
+    border-radius: 15px;
+    height : 35px;
+    border : none;
+    margin-left: 5px;
+}
+
+.BookList-container ul{
+    list-style-type: none;
+    padding:0;
+  }
+.BookList-container ul li{
+    padding:10px;
+    margin: 10px auto;
+    border-radius: 12px;
+  }
+  

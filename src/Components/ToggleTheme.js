@@ -10,7 +10,7 @@ class ToggleTheme extends Component {
         
         return (
             <div>
-                <button   className="Toggle-Button"style={{ background: theme.ui}} onClick={ToggleTheme}>Toggle</button>
+                <button   className="Toggle-Button"style={{  color :theme.syntax,background: theme.ui}} onClick={ToggleTheme}>Toggle</button>
             </div>        
         );
     }
